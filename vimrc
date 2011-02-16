@@ -27,7 +27,7 @@ set listchars=tab:>-,trail:-
 set showmatch 
 
 " Do not wrap lines.
-set nowrap
+" set nowrap
 
 " Turn on syntax highlighting.
 syntax enable
