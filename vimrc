@@ -1,19 +1,19 @@
 " Bernie Pope's .vimrc file.
 
 " Don't emulate traditional vi.
-set nocompatible 
+set nocompatible
 
 " Make cursor show where a bracket matches.
 set showmatch
 
-" Show current position of cursor. 
+" Show current position of cursor.
 set ruler
 
 " Don't make noise on errors.
-set noerrorbells 
+set noerrorbells
 
 " Do not highlight searched for phrases.
-set nohlsearch 
+set nohlsearch
 
 " Incremental search.
 set incsearch
@@ -21,10 +21,10 @@ set incsearch
 " list certain characters with markers
 set list
 " list tabs and trailing spaces
-set listchars=tab:>-,trail:-
+" set listchars=tab:>-,trail:
 
 " Show matching brackets.
-set showmatch 
+set showmatch
 
 " Do not wrap lines.
 " set nowrap
