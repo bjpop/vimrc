@@ -19,7 +19,7 @@ set nohlsearch
 set incsearch
 
 " list certain characters with markers
-set list
+" set list
 " list tabs and trailing spaces
 " set listchars=tab:>-,trail:
 
