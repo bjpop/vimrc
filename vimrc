@@ -31,3 +31,8 @@ set showmatch
 
 " Turn on syntax highlighting.
 syntax enable
+
+" Python C auto-indentation
+filetype indent plugin on
+au FileType python setlocal tabstop=8 expandtab shiftwidth=4 softtabstop=4
+au FileType c setlocal tabstop=8 expandtab shiftwidth=4 softtabstop=4
